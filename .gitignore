@@ -1,0 +1,26 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de distribuição Python
+dist/
+build/
+*.egg-info/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de banco de dados SQLite
+*.sqlite
