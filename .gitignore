@@ -28,4 +28,5 @@ build/
 # Arquivos grandes que serão distribuídos via Releases
 tools_project/*.exe
 tools_project/*.zip
+release_files/
 *.pdf
