@@ -24,3 +24,8 @@ build/
 
 # Arquivos de banco de dados SQLite
 *.sqlite
+
+# Arquivos grandes
+# tools_project/*.exe
+tools_project/*.zip
+*.pdf
